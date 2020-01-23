@@ -19,14 +19,15 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'mammatus'
+project = u'Mammatus'
 copyright = u'2020, Tom Anderson'
 author = u'Tom Anderson'
 
 # The short X.Y version
-version = u''
+version = u'1.0'
+
 # The full version, including alpha/beta/rc tags
-release = u''
+release = u'alpha'
 
 
 # -- General configuration ---------------------------------------------------
@@ -39,6 +40,7 @@ release = u''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    "sphinx_rtd_theme",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
