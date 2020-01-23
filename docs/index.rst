@@ -12,3 +12,5 @@ Idealistically this is a plug and play by following the instructions provided in
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   gateway
